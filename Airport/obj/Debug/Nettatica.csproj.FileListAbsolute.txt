@@ -1,0 +1,2 @@
+C:\Users\marco.ochoa.NEORIS\Downloads\Netactica-master\Netactica-master\Nettatica\obj\Debug\Nettatica.csproj.AssemblyReference.cache
+C:\Users\marco.ochoa.NEORIS\Downloads\Netactica-master\Netactica-master\Nettatica\obj\Debug\Nettatica.csproj.CoreCompileInputs.cache

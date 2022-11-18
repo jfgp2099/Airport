@@ -1,0 +1,2 @@
+C:\Users\marco.ochoa.NEORIS\Downloads\AirportNetactica\Airport\Airport\obj\Debug\Airport.csproj.AssemblyReference.cache
+C:\Users\marco.ochoa.NEORIS\Downloads\AirportNetactica\Airport\Airport\obj\Debug\Airport.csproj.CoreCompileInputs.cache
